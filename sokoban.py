@@ -7,6 +7,7 @@
 # Raghav Chaturvedy (2010110759)
 # Anubhav Talus (2010110113)
 
+
 from heapq import *
 import time
 import sys
