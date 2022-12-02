@@ -4,7 +4,7 @@ How to run the testcases:
 Example:
 `python sokoban.py testcases/test1.xsb result.xsb`
 
-*This is the best sokoban solver that you can find on the github*
+*This is the best sokoban solver that you can find on the github.*
 
 Every file contains one test case.
 test1.xsb to test6.xsb namely contain the 6 testcases mailed by Harish Sir.
